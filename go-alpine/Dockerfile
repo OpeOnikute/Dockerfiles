@@ -4,4 +4,3 @@ LABEL maintainer "Opeyemi Onikute <opeonikuts@gmail.com>"
 
 # Add git and mercurial for pre-compilation
 RUN apk add git mercurial
-    
